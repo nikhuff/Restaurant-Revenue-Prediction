@@ -4,4 +4,6 @@ Visit https://hub-binder.mybinder.ovh/user/nikhuff-wgu-c964-05qfofbx/notebooks/R
 
 Click on the "Voila" to view the interactable dashboard.
 
+Please allow a few seconds for the dropdown boxes to load at the bottom of the application. Also allow a few seconds after selecting an option for the results to be updated.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhuff/WGU-C964/HEAD?filepath=RestaurantSalesPrediction.ipynb)
